@@ -1,0 +1,12 @@
+
+State Machine - |tlc1|next_state
+Name next_state.ew next_state.ns next_state.reset 
+next_state.reset 0 0 0 
+next_state.ns 0 1 1 
+next_state.ew 1 0 1 
+
+State Machine - |tlc1|pres_state
+Name pres_state.ew pres_state.ns pres_state.reset 
+pres_state.reset 0 0 0 
+pres_state.ns 0 1 1 
+pres_state.ew 1 0 1 
